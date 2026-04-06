@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:  white;
+    color: black;
+    font-family: sans-serif;
+}
+.container{
+    background-color:   #b0c7d1;
+    text-align: center;
+    margin: 30px;
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.info{
+    background-color: #b0c7d1;
+    margin: 30px;
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.skill{
+    background-color: #b0c7d1;
+    margin: 30px;
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.project{
+    background-color: #b0c7d1;
+    margin: 30px;
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+ 
+.certificate{
+    background-color: #b0c7d1;
+    margin: 30px;
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.strength{
+    background-color: #b0c7d1;
+    margin: 30px;
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
